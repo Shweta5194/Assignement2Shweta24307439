@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=fileReader
+comment1.params=lastName\ firstName\ studentId\ a1Marks\ a2Marks\ a3Marks
+comment1.target=Student(java.lang.String,\ java.lang.String,\ int,\ double,\ double,\ double)
+comment2.params=
+comment2.target=void\ calculateTotalMarks()
+comment3.params=
+comment3.target=double\ getTotalMarks()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment6.params=fileName\ students
+comment6.target=void\ readFromFile(java.lang.String,\ java.util.ArrayList)
+numComments=7
